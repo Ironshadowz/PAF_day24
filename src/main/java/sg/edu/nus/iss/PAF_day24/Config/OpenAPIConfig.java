@@ -16,7 +16,5 @@ public class OpenAPIConfig
                             .title("My PAF day 24 lecture")
                             .description("BankAccount API transaction example")
                             .version("version 1.0"));
-    }
-    
-                        
+    }                       
 }
